@@ -7,7 +7,6 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/Lemon_theme.svg?style=social&label=Fork&maxAge=2592000)]  
 [![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/Lemon_theme.svg?style=social&label=Star&maxAge=2592000)]
-<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 [![Visits Badge](https://badges.pufler.dev/visits/carlosvitr/Lemon_theme?style=for-the-badge)](https://github.com/CarlosVitr/Lemon_theme)
 <img src="http://img.shields.io/static/v1?label=STATUS&message=in%20DEVELOPMENT&color=RED&style=for-the-badge"/>
 </p>
