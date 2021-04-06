@@ -1,5 +1,5 @@
 # Theme for OMZ(Oh My Zsh),based on the alanpeabody theme, feel free to use it.
-# In order to enable a theme,set ZSH_THEME to the name of the theme in your
+# In order to enable a theme, set ZSH_THEME to the name of the theme in your ~/.zshrc, before sourcing Oh My Zsh; for example: ZSH_THEME=vitheme If you do not want any theme enabled, just set ZSH_THEME to blank: ZSH_THEME=""
 
 local user='%{$fg[green]%}%n@%{$fg[green]%}%m%{$reset_color%}'
 local current_dir='%{$fg[blue]%}%~%{$reset_color%}'
