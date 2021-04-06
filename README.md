@@ -3,7 +3,7 @@
         <tr>
             <td height=320>
 <p align="center">
-<img align="center"  width="320" height="320" src="Orange.png">
+<img align="center"  width="300" height="320" src="Orange.png">
 </td>
         </tr>
     </tbody>
