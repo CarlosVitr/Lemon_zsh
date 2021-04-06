@@ -1,9 +1,9 @@
 <table align="center">
     <tbody>
         <tr>
-            <td height=320>
+            <td height=300>
 <p align="center">
-<img align="center"  width="300" height="320" src="Orange.png">
+<img align="center"  width="300" height="300" src="Orange.png">
 </td>
         </tr>
     </tbody>
