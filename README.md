@@ -5,7 +5,8 @@
 <h1 align="center"> Lemon Theme Zsh </h1>
 <p align="center"> 
 
-[![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/Lemon_theme.svg?style=social&label=Fork&maxAge=2592000)]  
+[![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/Lemon_theme.svg?style=social&label=Fork&maxAge=2592000)] 
+
 [![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/Lemon_theme.svg?style=social&label=Star&maxAge=2592000)]
 [![Visits Badge](https://badges.pufler.dev/visits/carlosvitr/Lemon_theme?style=for-the-badge)](https://github.com/CarlosVitr/Lemon_theme)
 <img src="http://img.shields.io/static/v1?label=STATUS&message=in%20DEVELOPMENT&color=RED&style=for-the-badge"/>
