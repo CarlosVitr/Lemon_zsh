@@ -6,10 +6,9 @@
 
 <p align="center">
   
-[![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/Lemon_theme.svg?style=social&label=Fork&maxAge=2592000)] 
-[![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/Lemon_theme.svg?style=social&label=Star&maxAge=2592000)]
+[![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/Lemon_theme.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/CarlosVitr/Lemon_theme) 
+[![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/Lemon_theme.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CarlosVitr/Lemon_theme) 
 [![Visits Badge](https://badges.pufler.dev/visits/carlosvitr/Lemon_theme?style=for-the-badge)](https://github.com/CarlosVitr/Lemon_theme)
-<img src="http://img.shields.io/static/v1?label=STATUS&message=in%20DEVELOPMENT&color=RED&style=for-the-badge"/>
 </p>
 
 <h1 href="http://zsh.org/">Zsh</h1>
@@ -40,5 +39,13 @@ PS: Remember that you must replace $ LEMON_THEME and $ OH_MY_ZSH with the actual
 
 Go to your `~ / .zshrc` file and set `ZSH_THEME = "Lemon"`.
 
-
 # Author 
+
+| [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub> Carlos Vítor </sub>](https://github.com/carlosvitr) |
+| :---: |
+ 
+# License
+ 
+The [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_theme/blob/main/LICENSE)
+
+Copyright :copyright: 2018-2021,Carlos Vítor. 
