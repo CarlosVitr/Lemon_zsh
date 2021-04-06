@@ -4,8 +4,9 @@
 </p>
 
 <h1 align="center"> Lemon Theme Zsh </h1>
-<p align="center">
-  
+
+<p align="center"> 
+
 [![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/Lemon_theme.svg?style=social&label=Fork&maxAge=2592000)] 
   
 [![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/Lemon_theme.svg?style=social&label=Star&maxAge=2592000)]
