@@ -8,7 +8,6 @@
   
 [![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/Lemon_theme.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/CarlosVitr/Lemon_theme) 
 [![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/Lemon_theme.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CarlosVitr/Lemon_theme) 
-[![Visits Badge](https://badges.pufler.dev/visits/carlosvitr/Lemon_theme?style=for-the-badge)](https://github.com/CarlosVitr/Lemon_theme)
 </p>
 
 <h1 href="http://zsh.org/">Zsh</h1>
