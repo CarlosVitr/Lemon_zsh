@@ -6,8 +6,9 @@
 
 <p align="center">
   
-[![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/Lemon_theme.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/CarlosVitr/Lemon_theme) 
-[![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/Lemon_theme.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CarlosVitr/Lemon_theme) 
+![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_theme?color=red&label=Forks&logoColor=purple)
+![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_Theme?color=red&label=Stars&logoColor=purple)
+[![Build Status](https://www.travis-ci.com/CarlosVitr/Lemon_theme.svg?branch=main)](https://www.travis-ci.com/CarlosVitr/Lemon_theme)
 </p>
 
 <h1 href="http://zsh.org/">Zsh</h1>
