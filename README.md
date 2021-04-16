@@ -43,12 +43,12 @@ Go to your `~ / .zshrc` file and set `ZSH_THEME = "Lemon"`.
 
 Contributions are always welcome. There are several ways to contribute to this project, such as:
 
-🛠Porting this theme to other applications (ask first, please). 
-🤜Requesting a port. 
-🐞Reporting a bug. 
-📘Improve this documentation. 
-🤓👉🤓Sharing this project and recommending it to your friends. 
-🌟Dropping a star in this repository. 
+- 🛠Porting this theme to other applications (ask first, please). 
+- 🤜Requesting a port. 
+- 🐞Reporting a bug. 
+- 📘Improve this documentation. 
+- 🤓👉🤓Sharing this project and recommending it to your friends. 
+- 🌟Dropping a star in this repository. 
 
 # Author 
 
