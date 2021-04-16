@@ -39,6 +39,17 @@ PS: Remember that you must replace $ LEMON_THEME and $ OH_MY_ZSH with the actual
 
 Go to your `~ / .zshrc` file and set `ZSH_THEME = "Lemon"`.
 
+## Contributing
+
+Contributions are always welcome. There are several ways to contribute to this project, such as:
+
+🛠Porting this theme to other applications (ask first, please). 
+🤜Requesting a port. 
+🐞Reporting a bug. 
+📘Improve this documentation. 
+🤓👉🤓Sharing this project and recommending it to your friends. 
+🌟Dropping a star in this repository. 
+
 # Author 
 
 | [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub> Carlos Vítor </sub>](https://github.com/carlosvitr) |
