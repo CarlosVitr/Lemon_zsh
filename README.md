@@ -5,10 +5,13 @@
 <h1 align="center"> Lemon Theme Zsh </h1>
 
 <p align="center">
-  
+
+[![License](https://img.shields.io/github/license/carlosvitr/Lemon_theme.svg)](https://opensource.org/licenses/GPL-3.0)  
 ![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_theme?color=red&label=Forks&logoColor=purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_Theme?color=red&label=Stars&logoColor=purple)
 [![Build Status](https://www.travis-ci.com/CarlosVitr/Lemon_theme.svg?branch=main)](https://www.travis-ci.com/CarlosVitr/Lemon_theme)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_theme/main.svg)](https://github.com/carlosvitr/lemon_theme)
+
 </p>
 
 <h1 href="http://zsh.org/">Zsh</h1>
