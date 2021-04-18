@@ -36,7 +36,7 @@ PS: Remember that you must replace $ LEMON_THEME and $ OH_MY_ZSH with the actual
 
 - 1 - Download using the <a href="https://github.com/CarlosVitr/Lemon_theme/archive/refs/heads/main.zip"> download GitHub .zip </a> option and unzip them. 
 
-- 2 - Move ``` Lemon.zsh-theme``` file to oh-my-zsh theme's folder: ```oh-my-zsh / themes / dracula.zsh-theme.```
+- 2 - Move ``` Lemon.zsh-theme``` file to oh-my-zsh theme's folder: ```oh-my-zsh/themes/Lemon.zsh-theme.```
 
 ## Activating theme 
 
