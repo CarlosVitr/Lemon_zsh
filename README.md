@@ -8,7 +8,8 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_theme?color=red&label=Forks&logoColor=purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_Theme?color=red&label=Stars&logoColor=purple)
-[![Build Status](https://www.travis-ci.com/CarlosVitr/Lemon_theme.svg?branch=main)](https://www.travis-ci.com/CarlosVitr/Lemon_theme)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/lemon_theme?color=9cf&logo=Release&style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/carlosvitr/lemon_theme/total?color=9cf&label=Downloads&style=flat-square)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_theme/main.svg)](https://github.com/carlosvitr/lemon_theme)
 [![License](https://img.shields.io/github/license/carlosvitr/Lemon_theme.svg)](https://opensource.org/licenses/GPL-3.0)  
 
