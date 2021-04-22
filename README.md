@@ -15,7 +15,7 @@
 
 </p>
 
-<h1 href="http://zsh.org/">Zsh</h1>
+<h1><a href="http://zsh.org/">Zsh</a></h1>
 
 ## Install using Git 
 
@@ -58,16 +58,14 @@ Contributions are always welcome. There are several ways to contribute to this p
 
 Please file an issue for bugs, missing documentation, or unexpected behavior.
 
-<h4 align="left" href="https://github.com/CarlosVitr/Lemon_theme/issues">Report Bugs</h4
-
+<h4><a align="left" href="https://github.com/CarlosVitr/Lemon_theme/issues">Report Bugs</a></h4>
 
 # Author 
 
-| [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub> Carlos Vítor </sub>](https://github.com/carlosvitr) |
+| [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br> Carlos Vítor ](https://github.com/carlosvitr) |
 | :---: |
  
 # License
- 
-The [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_theme/blob/main/LICENSE)
-
-Copyright :copyright: 2018-2021,Carlos Vítor. 
+Lemon Theme:copyright: <a href="http://carlosvitor.ml">Carlos Vítor</a> 2018-2021 Thrown over
+The [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_theme/blob/main/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/lemon_theme/graphs/contributors">collaborators</a>.
+> <a href="http://carlosvitor.ml">carlosvitor.ml</a> | Github:<a href="https://github.com/carlosvitr">@CarlosVitr</a> | Twitter:<a href="https://twitter.com/ClsVitor">@ClsVitor</a>.
