@@ -54,6 +54,13 @@ Contributions are always welcome. There are several ways to contribute to this p
 - 🤓👉🤓Sharing this project and recommending it to your friends. 
 - 🌟Dropping a star in this repository. 
 
+## 🐛 Bugs
+
+Please file an issue for bugs, missing documentation, or unexpected behavior.
+
+<h4 align="left" href="https://github.com/CarlosVitr/Lemon_theme/issues">Report Bugs</h4
+
+
 # Author 
 
 | [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub> Carlos Vítor </sub>](https://github.com/carlosvitr) |
