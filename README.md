@@ -2,16 +2,15 @@
 <p align="center">
 <img align="center"  width="300" height="290" src="Orange.png">
 </p>
-<h1 align="center"> Lemon Theme Zsh </h1>
+<h1 align="center"> Lemon Theme </h1>
 
 <p align="center">
 
-![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_theme?color=red&label=Forks&logoColor=purple)
-![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_Theme?color=red&label=Stars&logoColor=purple)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/lemon_theme?color=9cf&logo=Release&style=flat-square)
-![GitHub all releases](https://img.shields.io/github/downloads/carlosvitr/lemon_theme/total?color=9cf&label=Downloads&style=flat-square)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_theme/main.svg)](https://github.com/carlosvitr/lemon_theme)
-[![License](https://img.shields.io/github/license/carlosvitr/Lemon_theme.svg)](https://opensource.org/licenses/GPL-3.0)  
+![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_theme?&style=for-the-badge&color=red&label=Forks&logoColor=purple)
+![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_Theme?&style=for-the-badge&color=red&label=Stars&logoColor=purple)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/lemon_theme?color=9cf&style=for-the-badge)![GitHub all releases](https://img.shields.io/github/downloads/carlosvitr/lemon_theme/total?color=9cf&style=for-the-badge)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_theme/main.svg?&style=for-the-badge&)](https://github.com/carlosvitr/lemon_theme)
+[![License](https://img.shields.io/github/license/carlosvitr/Lemon_theme.svg?&style=for-the-badge&)](https://opensource.org/licenses/GPL-3.0)  
 
 </p>
 
@@ -66,5 +65,5 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
 | :---: |
  
 # License
-Lemon Theme:copyright: <a href="http://carlosvitor.ml">Carlos Vítor</a> 2018-2021 Launched under the [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_theme/blob/main/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/lemon_theme/graphs/contributors">collaborators</a>.
+Lemon Theme :copyright:<a href="http://carlosvitor.ml">Carlos Vítor</a> 2018-2021 Launched under the [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_theme/blob/main/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/lemon_theme/graphs/contributors">collaborators</a>.
 > <a href="http://carlosvitor.ml">carlosvitor.ml</a> | Github:<a href="https://github.com/carlosvitr">@CarlosVitr</a> | Twitter:<a href="https://twitter.com/ClsVitor">@ClsVitor</a>.
