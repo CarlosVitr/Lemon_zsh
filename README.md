@@ -60,7 +60,7 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
 
 | [![Carlos Vítor](https://github.com/carlosvitr.png?size=100)](https://github.com/carlosvitr) |
 | -----------------------------------------------------------------------------------------------|
-| [Carlos Vítor](https://github.com/carlosvitr)                                                  |
+| [Carlos Vítor](https://github.com/carlosvitr)|
 
 # License
 Lemon Theme :copyright:<a href="http://carlosvitor.ml">Carlos Vítor</a> 2018-2021 Launched under the [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_theme/blob/main/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/lemon_theme/graphs/contributors">collaborators</a>.
