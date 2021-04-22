@@ -52,8 +52,9 @@ Contributions are always welcome. There are several ways to contribute to this p
 ## 🐞 Bugs
 
 Please file an issue for bugs, missing documentation, or unexpected behavior.
-
-<a align="center" href="https://github.com/CarlosVitr/Lemon_theme/issues"><img with="70" height="50" src="https://github.com/CarlosVitr/Lemon_theme/blob/main/button_report-bugs.png" alt="Button Report Bugs"></a>
+<p align="center">
+<a href="https://github.com/CarlosVitr/Lemon_theme/issues"><img with="70" height="50" src="https://github.com/CarlosVitr/Lemon_theme/blob/main/button_report-bugs.png" alt="Button Report Bugs"></a>
+</p>
 
 # Author 
 
