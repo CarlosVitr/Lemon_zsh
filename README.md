@@ -58,7 +58,7 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
 
 # Author 
 
-|[![Carlos Vítor](https://github.com/carlosvitr.png?size=100)](https://github.com/carlosvitr) |
+|![Carlos Vítor](https://github.com/carlosvitr.png?size=100)|
 |---------------------------------------------|
 |[Carlos Vítor](https://github.com/carlosvitr)|
 
