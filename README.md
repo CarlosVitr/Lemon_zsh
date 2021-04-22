@@ -58,7 +58,7 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
 
 # Author 
 
-| [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br> Carlos Vítor ](https://github.com/carlosvitr) |
+| [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub>Carlos Vítor</sub>](https://github.com/carlosvitr) |
 | :---: |
  
 # License
