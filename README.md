@@ -1,4 +1,3 @@
-
 <p align="center">
 <img align="center"  width="300" height="290" src="Orange.png">
 </p>
@@ -63,4 +62,4 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
  
 # License
 Lemon Theme :copyright:<a href="http://carlosvitor.ml">Carlos Vítor</a> 2018-2021 Launched under the [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_theme/blob/main/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/lemon_theme/graphs/contributors">collaborators</a>.
-> <a href="http://carlosvitor.ml">carlosvitor.ml</a> | Github:<a href="https://github.com/carlosvitr">@CarlosVitr</a> | Twitter:<a href="https://twitter.com/ClsVitor">@ClsVitor</a>.
+> <a href="http://carlosvitor.ml">carlosvitor.ml</a> • Github:<a href="https://github.com/carlosvitr">@CarlosVitr</a> • Twitter:<a href="https://twitter.com/ClsVitor">@ClsVitor</a>.
