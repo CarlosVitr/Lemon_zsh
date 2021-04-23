@@ -3,6 +3,7 @@
 </p>
 <h1 align="center"> Lemon Theme </h1>
 
+<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 ![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_theme?&style=for-the-badge&color=red&label=Forks&logoColor=purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_Theme?&style=for-the-badge&color=red&label=Stars&logoColor=purple)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/lemon_theme?color=9cf&style=for-the-badge)
