@@ -3,13 +3,17 @@
 </p>
 <h1 align="center"> Lemon Theme </h1>
 
-<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<p align="left"="center">
+
 ![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_theme?&style=for-the-badge&color=red&label=Forks&logoColor=purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_Theme?&style=for-the-badge&color=red&label=Stars&logoColor=purple)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/lemon_theme?color=9cf&style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/carlosvitr/lemon_theme/total?color=9cf&style=for-the-badge)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_theme/main.svg?&style=for-the-badge&)](https://github.com/carlosvitr/lemon_theme)
 [![License](https://img.shields.io/github/license/carlosvitr/Lemon_theme.svg?&style=for-the-badge&)](https://opensource.org/licenses/GPL-3.0)  
+<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+
+</p>
 
 <h1><a href="http://zsh.org/">Zsh</a></h1>
 
