@@ -62,7 +62,7 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
 
 # Author
  
-<table align="left">
+<table align="center">
     <tr>
         <td align="center">
             <a href="https://github.com/Carlosvitr">
