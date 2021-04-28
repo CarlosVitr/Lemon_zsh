@@ -62,17 +62,9 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
 
 # Author
  
-<table align="center">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/Carlosvitr">
-                <img src="https://avatars.githubusercontent.com/u/43506171?s=400&u=332a1d81e923006d7d5de3f2c7b7fbb7b5c50afe&v=4" width="150px;" alt="Image do Carlos" />
-                <br />
-                <sub><b>Carlos Vítor</b></sub>
-            </a>
-        </td>    
-    </tr>
-</table>
+| [![Carlos Vítor](https://github.com/carlosvitr.png?size=100)](https://github.com/carlosvitr)|
+| ---------------------------------------------|
+| [Carlos Vítor](https://github.com/carlosvitr)|
 
 # License
 
