@@ -1,1 +1,7 @@
-language: shell
+{
+  "language": "shell",
+  "os": [
+    "linux"
+  ],
+  "dist": "xenial"
+}
