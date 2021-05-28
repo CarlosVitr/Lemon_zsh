@@ -1,25 +1,24 @@
 <p align="center">
 <img align="center"  width="300" height="290" src="Orange.png">
 </p>
-<h1 align="center"> Lemon Theme </h1>
 
-![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_theme?&style=for-the-badge&color=red&label=Forks&logoColor=purple)
-![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_Theme?&style=for-the-badge&color=red&label=Stars&logoColor=purple)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/lemon_theme?color=9cf&style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/carlosvitr/lemon_theme/total?color=9cf&style=for-the-badge)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_theme/main.svg?&style=for-the-badge&)](https://github.com/carlosvitr/lemon_theme)
-[![License](https://img.shields.io/github/license/carlosvitr/Lemon_theme.svg?&style=for-the-badge&)](https://opensource.org/licenses/GPL-3.0)  
+![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_zsh?&style=for-the-badge&color=red&label=Forks&logoColor=purple)
+![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_zsh?&style=for-the-badge&color=red&label=Stars&logoColor=purple)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/lemon_zsh?color=9cf&style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/carlosvitr/lemon_zsh/total?color=9cf&style=for-the-badge)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_zsh/main.svg?&style=for-the-badge&)](https://github.com/carlosvitr/lemon_theme)
+[![License](https://img.shields.io/github/license/carlosvitr/Lemon_zsh.svg?&style=for-the-badge&)](https://opensource.org/licenses/GPL-3.0)  
 <a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-![Travis (.com) branch](https://img.shields.io/travis/com/carlosvitr/lemon_theme/main?style=for-the-badge)
+![Travis (.com) branch](https://img.shields.io/travis/com/carlosvitr/lemon_zsh/main?style=for-the-badge)
 
-<h1><a href="http://zsh.org/">Zsh</a></h1>
+<h1 align="center" > Lemon <a href="http://zsh.org/">Zsh</a></h1>
 
 ## Install using Git 
 
 If you are a git user, you install by cloning the repository:
 
 ```
-$ git clone https://github.com/CarlosVitr/Lemon_theme.git
+$ git clone https://github.com/CarlosVitr/Lemon_zsh.git
 ```
 And create a symbolic link to the oh-my-zsh theme folder:
 
@@ -55,7 +54,7 @@ Contributions are always welcome. There are several ways to contribute to this p
 
 Please file an issue for bugs, missing documentation, or unexpected behavior.
 <p align="center">
-<a href="https://github.com/CarlosVitr/Lemon_theme/issues"><img with="70" height="50" src="button_report-bugs.png" alt="Button Report Bugs"></a>
+<a href="https://github.com/CarlosVitr/Lemon_zsh/issues"><img with="70" height="50" src="button_report-bugs.png" alt="Button Report Bugs"></a>
 </p>
 
 # Author
@@ -66,5 +65,5 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
 
 # License
 
-**Lemon Theme©** <a href="http://carlosvitor.ml">Carlos Vítor</a>, Launched under the [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_theme/blob/main/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/lemon_theme/graphs/contributors">collaborators</a>.
+**Lemon Zsh©** <a href="http://carlosvitor.ml">Carlos Vítor</a>, Launched under the [GPL-3.0 License](https://github.com/CarlosVitr/Lemon_zsh/blob/main/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/lemon_zsh/graphs/contributors">collaborators</a>.
 > Github:<a href="https://github.com/carlosvitr">@CarlosVitr</a> • Twitter:<a href="https://twitter.com/ClsVitor">@ClsVitor</a> • LinkedIn:<a href="https://linkedin.com/in/CarlosVitor">Carlos Vítor</a>.
