@@ -9,7 +9,7 @@
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_zsh/main.svg?&style=for-the-badge&)](https://github.com/carlosvitr/lemon_theme)
 [![License](https://img.shields.io/github/license/carlosvitr/Lemon_zsh.svg?&style=for-the-badge&)](https://opensource.org/licenses/GPL-3.0)  
 <a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-![Travis (.com) branch](https://img.shields.io/travis/com/carlosvitr/lemon_zsh/main?style=for-the-badge)
+![Travis (.com) branch](https://img.shields.io/travis/com/carlosvitr/lemon_theme/main?style=for-the-badge)
 
 <h1 align="center" > Lemon <a href="http://zsh.org/">Zsh</a></h1>
 
