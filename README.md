@@ -13,6 +13,12 @@
 
 <h1 align="center" > Lemon <a href="http://zsh.org/">Zsh</a></h1>
 
+## Screenshot
+
+<p align="center">
+<img align="center" src="Lemon_theme.png">
+</p>
+
 ## Install using Git 
 
 If you are a git user, you install by cloning the repository:
