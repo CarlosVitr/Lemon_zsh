@@ -5,7 +5,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/carlosvitr/Lemon_zsh?&style=for-the-badge&color=red&label=Forks&logoColor=purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/Lemon_zsh?&style=for-the-badge&color=red&label=Stars&logoColor=purple)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/lemon_zsh?color=9cf&style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/carlosvitr/lemon_zsh/total?color=9cf&style=for-the-badge)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/Lemon_zsh/main.svg?&style=for-the-badge&)](https://github.com/carlosvitr/lemon_theme)
 ![GitHub](https://img.shields.io/github/license/carlosvitr/lemon_zsh?color=red&style=for-the-badge)
 <a href="http://carlosvitor.ml/"><img width="110" height="30" src="https://github.com/CarlosVitr/carlosvitr/blob/M4st3r/Imagens/button_carlos.png"></a>
