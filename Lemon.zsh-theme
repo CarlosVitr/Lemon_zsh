@@ -22,5 +22,5 @@ ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[cyan]%} ✭"
 ZSH_THEME_RUBY_PROMPT_PREFIX="%{$fg[red]%}ruby:("
 ZSH_THEME_RUBY_PROMPT_SUFFIX=")%{$reset_color%}"
 
-PROMPT="${user}%{$fg[cyan]%}|%{$reset_color%}${current_dir}$%{$fg[cyan]%}|%{$reset_color%}${git_branch}$ %{$fg[white]%}❯❯%{$reset_color%}"
+PROMPT="${user}%{$fg[cyan]%}|%{$reset_color%}${current_dir}$%{$fg[cyan]%}|%{$reset_color%}${git_branch}$ %{$fg[white]%}❯❯%{$reset_color%} "
 RPROMPT="%(?.%{$fg[green]%}✓%f.%{$fg[red]%}✘%f)"
