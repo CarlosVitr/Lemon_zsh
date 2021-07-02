@@ -10,7 +10,7 @@ ZSH_THEME_RVM_PROMPT_OPTIONS=""
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[magenta]%}git:("
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[yellow]%}=[%{$reset_color%}  "
-ZSH_THEME_GIT_PROMPT_CLEAN=")"
+ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[magenta]%})"
 
 ZSH_THEME_GIT_PROMPT_ADDED="%{$fg[green]%} ➕"
 ZSH_THEME_GIT_PROMPT_MODIFIED="%{$fg[blue]%} ✹"
