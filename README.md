@@ -53,7 +53,7 @@ PS: Remember that you must replace $ LEMON_THEME and $ OH_MY_ZSH with the actual
 
 ## Activating theme 
 
-Go to your `~ / .zshrc` file and set `ZSH_THEME = "Lemon"`.
+Go to your file `~/.zshrc` through the command `nano .zshrc` and set `ZSH_THEME = "Lemon"`.
 
 ## Contributing
 
