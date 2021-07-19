@@ -12,11 +12,22 @@
 
 <h1 align="center" > Lemon <a href="http://zsh.org/">Zsh</a></h1>
 
+---
+
 ## Screenshot
 
 <p align="center">
 <img align="center" src="Lemon_theme.png">
 </p>
+
+## Demonstration of Theme
+
+<p align="center">
+<img  align="center" src="Lemon.gif">
+</p> 
+
+
+---
 
 ## Install using Git 
 
